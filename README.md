@@ -1,4 +1,4 @@
-Android Animation Samples Repository
+Android 12 Animation Samples Repository
 ====================================
 
 This repository contains a set of individual Android Studio projects to help you get
